@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700;9..40,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+ body {
+    background-color: rgb(244, 244, 244);
+ }
+/* style navbar */
+
+ul li  {
+    font-family: 'DM Sans',sans-serif;
+    font-weight: 600;
+}   
+
+/* navbar akhir style */
+
+/* style font */
+.DM-Sans {
+    font-family: 'Dm Sans',sans-serif;
+}
+/* akhir style */
+.underline {
+    position: relative;
+    background-color: rgb(254, 235, 89);
+    margin-top: -16px;
+    padding: 5px;
+    z-index: -1;
+
+}
+
